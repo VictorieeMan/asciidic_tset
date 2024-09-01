@@ -33,3 +33,23 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 == License
 
 This project is licensed under the MIT License.
+
+
+= My Mathematical Document
+Author Name
+:stem: latexmath
+
+== Introduction
+
+This document includes some mathematical expressions.
+
+Inline example: The quadratic formula is stem:[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}].
+
+Block example:
+
+[stem]
+++++
+\[
+\int_{a}^{b} f(x) \, dx = F(b) - F(a)
+\]
+++++
