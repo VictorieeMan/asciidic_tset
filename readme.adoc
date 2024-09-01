@@ -1,0 +1,35 @@
+= Project Title
+Author Name
+:toc:
+
+== Introduction
+
+This is a sample project to demonstrate using AsciiDoc for a README file on GitHub.
+
+== Installation
+
+To install the project, follow these steps:
+
+[source,bash]
+----
+$ git clone https://github.com/yourusername/yourproject.git
+$ cd yourproject
+$ ./install.sh
+----
+
+== Usage
+
+To use the project, run the following command:
+
+[source,bash]
+----
+$ ./run.sh
+----
+
+== Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+== License
+
+This project is licensed under the MIT License.
